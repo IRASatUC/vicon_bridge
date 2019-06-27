@@ -5,7 +5,7 @@ This is a brief guide to walk you through setting up vicon_bridge with [ROS](htt
 - **[Ubuntu 16.04](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop-1604#0)**
 - **[ROS-Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)**
 
-## Clone vicon_bridge Package
+## Create *vicon_bridge* Package
 Open a new terminal
   ```console
   $ cd ~
